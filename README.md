@@ -6,7 +6,7 @@ I have a background in audio engineering and like making things, mostly sim raci
 
 A free SimHub plugin that brings Logitech's Trueforce haptics to games that
 never shipped support for them, and adds rev light customization, control of
-the wheel's OLED screen, a phone dash,community presets and so much more. Runs on the
+the wheel's OLED screen, a phone dash, community presets and so much more. Runs on the
 G PRO, RS50 and G923. Reverse engineered protocol. 
 
 [![Stars](https://img.shields.io/github/stars/Mhytee/Trueforce-For-All?style=flat&label=stars&color=2ea043)](https://github.com/Mhytee/Trueforce-For-All)
