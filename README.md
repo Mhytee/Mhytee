@@ -1,4 +1,4 @@
-## Hi, i'm Mhytee
+## Hi, I'm Mhytee
 
 I have a background in audio engineering and like making things, mostly sim racing related. 
 
@@ -21,5 +21,5 @@ and 8 under TeknoParrot, with auto-backups and one-click launching.
 ---
 
 The TF4ALL [Discord](https://discord.gg/sfwsDqTsdn) is where you can get setup help, tuning talk
-and become a tester. If you want to support my work, there is a also
+and become a tester. If you want to support my work, there is also a
 [Patreon](https://www.patreon.com/Mhytee).
