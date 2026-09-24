@@ -1,13 +1,13 @@
-## Mhytee
+## Hi, i'm Mhytee
 
-I like making things, mostly for sim racing hardware.
+I have a background in audio engineering and like making things, mostly sim racing related. 
 
 ### [Trueforce For All](https://github.com/Mhytee/Trueforce-For-All)
 
 A free SimHub plugin that brings Logitech's Trueforce haptics to games that
 never shipped support for them, and adds rev light customization, control of
 the wheel's OLED screen, a phone dash and community presets. Runs on the
-G PRO, RS50 and G923.
+G PRO, RS50 and G923. Reverse engineered protocol. 
 
 [![Stars](https://img.shields.io/github/stars/Mhytee/Trueforce-For-All?style=flat&label=stars&color=2ea043)](https://github.com/Mhytee/Trueforce-For-All)
 [![Downloads](https://img.shields.io/github/downloads/Mhytee/Trueforce-For-All/total?label=downloads&color=2ea043)](https://github.com/Mhytee/Trueforce-For-All/releases)
@@ -21,5 +21,5 @@ and 8 under TeknoParrot, with auto-backups and one-click launching.
 ---
 
 The [Discord](https://discord.gg/sfwsDqTsdn) is where setup help, tuning talk
-and new builds live. If you want to support the work, there is a
+and new builds live. If you want to support my work, there is a
 [Patreon](https://www.patreon.com/Mhytee).
