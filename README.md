@@ -20,6 +20,6 @@ and 8 under TeknoParrot, with auto-backups and one-click launching.
 
 ---
 
-The [Discord](https://discord.gg/sfwsDqTsdn) is where setup help, tuning talk
-and new builds live. If you want to support my work, there is a
+The TF4ALL [Discord](https://discord.gg/sfwsDqTsdn) is where you can get setup help, tuning talk
+and become a tester. If you want to support my work, there is a also
 [Patreon](https://www.patreon.com/Mhytee).
